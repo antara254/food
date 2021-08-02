@@ -32,6 +32,7 @@ section{
 .corner-banner{background-image: url(image/top-banner.png);
 background-repeat: no-repeat;}
 .about-us{
-    background-image: url(image/bg.jpg);
+    background-image: url(image/7.png);
+    background-size: cover;
     background-repeat: no-repeat;
 }
